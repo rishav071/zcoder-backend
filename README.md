@@ -2,7 +2,7 @@
 
 ZCoder is a collaborative coding platform that enables users to practice coding problems, join real-time rooms, chat, and execute code live using Judge0 API. This repository contains the **backend** of the ZCoder platform.
 
-🔗 **Backend Live Link:** [https://zcoder-backend-9aq1.onrender.com](https://zcoder-backend-9aq1.onrender.com)
+🔗 **Backend Live Link:** [https://zcoder-backend-wt6v.onrender.com](https://zcoder-backend-wt6v.onrender.com)
 
 ---
 
